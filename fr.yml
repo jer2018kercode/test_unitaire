@@ -1,0 +1,10 @@
+weekdays:
+  days:
+  - Dimanche
+  - Lundi
+  - Mardi
+  - Mercredi
+  - Jeudi
+  - vendredi
+  - Samedi
+  error: Oups, vous deveez entrer un nombre entre 1 et 7
